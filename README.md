@@ -4,3 +4,6 @@ PostgreSQL database setup, container and EC2 configuration
 
 ## Purpose of this Repository
 This repository contains the configuration and scripts I will use to set up a PostgreSQL database using Docker containers. I will also use it to store the configuration needed to deploy this database to an Amazon EC2 instance for my CS 415 class.
+Last update Junio15, 2026
+
+
